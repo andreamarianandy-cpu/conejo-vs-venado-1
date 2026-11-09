@@ -3,7 +3,7 @@
  * Constantes principales, manejo de estados, física de juego y validaciones estrictas.
  **/
 const BotManager = require('./bot');
-
+ 
 const ENERGIA_INICIAL = 100;
 const GASTO_ENERGIA_POR_SEGUNDO = 4.76; // 100 de energía dura ~21 segundos sin comer
 const ENERGIA_POR_TRIANGULO = 21;
