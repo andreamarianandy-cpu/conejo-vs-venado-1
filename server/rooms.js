@@ -1,4 +1,3 @@
-
 const BotManager = require('./bot');
 
 const ENERGIA_INICIAL = 100;
