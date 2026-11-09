@@ -2,7 +2,7 @@ const BotManager = require('./bot');
 
 const ENERGIA_INICIAL = 100;
 const GASTO_ENERGIA_POR_SEGUNDO = 4.76; // 100 de energía dura ~21 segundos sin comer
-const ENERGIA_POR_TRIANGULO = 21;
+const ENERGIA_POR_TRIANGULO = 21; 
 const MAX_JUGADORES = 59;
 const MIN_JUGADORES_GRUPO = 2;
 const TIEMPO_RECONEXION = 60;
