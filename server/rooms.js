@@ -1,7 +1,7 @@
 /**
  * Gestor de Salas y Lógica de Servidor Autoritaria
  * Constantes principales, manejo de estados, física de juego y validaciones estrictas.
- */
+ */ 
 const BotManager = require('./bot');
 
 const ENERGIA_INICIAL = 100;
